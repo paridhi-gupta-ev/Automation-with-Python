@@ -1,0 +1,5 @@
+nums = (1,2,3,4)
+print(nums)
+print(nums[0])
+print(nums.count(4))
+print(nums.index(1))
